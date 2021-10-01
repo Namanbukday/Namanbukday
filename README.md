@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Namanbukday
 - 👀 I’m interested in web development and graphic designing.
-- 🌱 I’m currently learning Frontend js
+- 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on anything to be honest.
 - 📫 How to reach me linkedin.
 
